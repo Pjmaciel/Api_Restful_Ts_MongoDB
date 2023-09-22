@@ -15,3 +15,35 @@
 2023-09-21 23:18:03:183 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
 2023-09-21 23:18:10:1810 - [35mhttp[39m: [35mGET /api/test 200 : res[content-length] - 2.363 ms[39m
 [35m[39m 
+2023-09-21 23:22:39:2239 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-21 23:22:39:2239 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-21 23:38:23:3823 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-21 23:38:23:3823 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-21 23:46:37:4637 - [35mhttp[39m: [35mPOST /apiapi/movie 404 : res[content-length] - 4.957 ms[39m
+[35m[39m 
+2023-09-21 23:46:52:4652 - [35mhttp[39m: [35mPOST /apimovie 404 : res[content-length] - 0.722 ms[39m
+[35m[39m 
+2023-09-21 23:47:20:4720 - [35mhttp[39m: [35mPOST /api/movie 404 : res[content-length] - 0.865 ms[39m
+[35m[39m 
+2023-09-21 23:47:37:4737 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-21 23:47:37:4737 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-21 23:47:39:4739 - [35mhttp[39m: [35mPOST /api/movie 200 : res[content-length] - 2.004 ms[39m
+[35m[39m 
+2023-09-21 23:51:00:510 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-21 23:51:00:510 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-21 23:51:17:5117 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-21 23:51:17:5117 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-21 23:51:43:5143 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-21 23:51:43:5143 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-21 23:53:27:5327 - [35mhttp[39m: [35mPOST /apimovie 404 : res[content-length] - 1.335 ms[39m
+[35m[39m 
+2023-09-21 23:54:32:5432 - [35mhttp[39m: [35mPOST /apimovie 404 : res[content-length] - 0.351 ms[39m
+[35m[39m 
+2023-09-22 00:00:28:028 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-22 00:00:28:028 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-22 00:00:35:035 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-22 00:00:35:035 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-22 00:00:41:041 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-22 00:00:41:041 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-22 00:01:11:111 - [35mhttp[39m: [35mPOST /apimovie 404 : res[content-length] - 1.320 ms[39m
+[35m[39m 
