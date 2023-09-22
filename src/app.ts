@@ -31,6 +31,5 @@ const port = config.get<number>("port");
 
 app.listen(port, async () => {
     await db();
-
     logger.info(`Aplicação esta funcionando na porta:  ${port}`);
 })
