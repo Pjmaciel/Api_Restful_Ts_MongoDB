@@ -9,12 +9,18 @@ const app = express()
 //JSON middleware
 app.use(express.json())
 
+//middleware
+import morganMiddleware from "./middleware/morganMiddleware";
+
 //DB
 import db from "../config/db";
 //Routes
 import router from "./router";
 
+app.use(morganMiddleware);
+
 app.use("/api/", router);
+
 
 
 //Logger
