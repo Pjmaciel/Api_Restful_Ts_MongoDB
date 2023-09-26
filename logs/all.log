@@ -47,3 +47,175 @@
 2023-09-22 00:00:41:041 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
 2023-09-22 00:01:11:111 - [35mhttp[39m: [35mPOST /apimovie 404 : res[content-length] - 1.320 ms[39m
 [35m[39m 
+2023-09-22 10:05:31:531 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-22 10:05:31:531 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-22 10:06:16:616 - [35mhttp[39m: [35mPOST /apimovie 404 : res[content-length] - 2.267 ms[39m
+[35m[39m 
+2023-09-22 10:07:45:745 - [35mhttp[39m: [35mPOST /apimovie 404 148 - 3.181 ms[39m
+[35m[39m 
+2023-09-22 10:07:45:745 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-22 10:07:45:745 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-22 10:07:55:755 - [35mhttp[39m: [35mPOST /api/movie 200 10 - 1.564 ms[39m
+[35m[39m 
+2023-09-22 10:08:15:815 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-22 10:08:15:815 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-22 10:08:43:843 - [35mhttp[39m: [35mPOST /api/movie 201 147 - 199.321 ms[39m
+[35m[39m 
+2023-09-22 17:54:33:5433 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-22 17:54:33:5433 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-22 17:55:16:5516 - [35mhttp[39m: [35mPOST /api/movie 201 150 - 208.652 ms[39m
+[35m[39m 
+2023-09-25 18:11:50:1150 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 18:11:50:1150 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 18:12:07:127 - [35mhttp[39m: [35mPOST /apimovie 404 148 - 0.808 ms[39m
+[35m[39m 
+2023-09-25 18:14:26:1426 - [35mhttp[39m: [35mGET /api/test 200 12 - 3.929 ms[39m
+[35m[39m 
+2023-09-25 18:14:39:1439 - [35mhttp[39m: [35mPOST /apimovie 404 148 - 0.141 ms[39m
+[35m[39m 
+2023-09-25 18:17:28:1728 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 18:17:28:1728 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 18:17:39:1739 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 18:17:39:1739 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 18:20:03:203 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 18:20:03:203 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 18:20:16:2016 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 18:20:16:2016 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 18:21:50:2150 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 18:21:50:2150 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 18:23:07:237 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 18:23:07:237 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 18:24:03:243 - [35mhttp[39m: [35mPOST /apimovie 404 148 - 1.167 ms[39m
+[35m[39m 
+2023-09-25 18:24:28:2428 - [35mhttp[39m: [35mPOST /api/movie 201 149 - 207.311 ms[39m
+[35m[39m 
+2023-09-25 18:24:51:2451 - [35mhttp[39m: [35mPOST /api/movie 422 52 - 1.263 ms[39m
+[35m[39m 
+2023-09-25 18:26:02:262 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 18:26:02:262 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 20:08:15:815 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 20:08:15:815 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 20:09:47:947 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 20:09:47:947 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 20:09:57:957 - [35mhttp[39m: [35mPOST /api/movie 422 65 - 5.063 ms[39m
+[35m[39m 
+2023-09-25 20:12:22:1222 - [35mhttp[39m: [35mPOST /api/movie 422 65 - 1.157 ms[39m
+[35m[39m 
+2023-09-25 20:12:34:1234 - [35mhttp[39m: [35mPOST /api/movie 201 166 - 213.055 ms[39m
+[35m[39m 
+2023-09-25 20:12:43:1243 - [35mhttp[39m: [35mPOST /api/movie 201 168 - 186.121 ms[39m
+[35m[39m 
+2023-09-25 20:16:29:1629 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 20:16:29:1629 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 20:16:55:1655 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 20:16:55:1655 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 20:53:26:5326 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 20:53:26:5326 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 20:58:10:5810 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 20:58:10:5810 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 21:00:42:042 - [35mhttp[39m: [35mGET /api/movie/651213eb4ba9ce2b8d56ec3b8 404 174 - 2.450 ms[39m
+[35m[39m 
+2023-09-25 21:01:02:12 - [35mhttp[39m: [35mGET /apimovie/651213eb4ba9ce2b8d56ec3b8 404 173 - 0.701 ms[39m
+[35m[39m 
+2023-09-25 21:01:14:114 - [35mhttp[39m: [35mGET /api/movie/651213eb4ba9ce2b8d56ec3b8 404 174 - 0.816 ms[39m
+[35m[39m 
+2023-09-25 21:01:23:123 - [35mhttp[39m: [35mPOST /api/movie 422 153 - 6.319 ms[39m
+[35m[39m 
+2023-09-25 21:01:24:124 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 21:01:24:124 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 21:01:36:136 - [31merror[39m: [31mErro no sitema  : Cast to ObjectId failed for value "651213eb4ba9ce2b8d56ec3b8" (type string) at path "_id" for model "Movie"[39m 
+2023-09-25 21:01:50:150 - [31merror[39m: [31mErro no sitema  : Cast to ObjectId failed for value "651213eb4ba9ce2b8d56ec3b8" (type string) at path "_id" for model "Movie"[39m 
+2023-09-25 21:02:16:216 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 21:02:16:216 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 21:02:16:216 - [31merror[39m: [31mErro no sitema  : Cast to ObjectId failed for value "651213eb4ba9ce2b8d56ec3b8" (type string) at path "_id" for model "Movie"[39m 
+2023-09-25 21:04:46:446 - [31merror[39m: [31mErro no sitema  : Cast to ObjectId failed for value "651213eb4ba9ce2b8d56ec3b8" (type string) at path "_id" for model "Movie"[39m 
+2023-09-25 21:05:16:516 - [35mhttp[39m: [35mGET /api/movie/651213eb4ba9ce2b8d56ec3b8 - - - - ms[39m
+[35m[39m 
+2023-09-25 21:07:01:71 - [35mhttp[39m: [35mGET /apimovie/651213eb4ba9ce2b8d56ec3b 404 172 - 1.444 ms[39m
+[35m[39m 
+2023-09-25 21:07:16:716 - [35mhttp[39m: [35mGET /api/movie/ 404 149 - 0.642 ms[39m
+[35m[39m 
+2023-09-25 21:07:46:746 - [35mhttp[39m: [35mGET /api/movie/651213eb4ba9ce2b8d56ec3b8 - - - - ms[39m
+[35m[39m 
+2023-09-25 21:07:56:756 - [35mhttp[39m: [35mGET /api/movie/651213eb4ba9ce2b8d56ec3b - - - - ms[39m
+[35m[39m 
+2023-09-25 21:07:57:757 - [31merror[39m: [31mErro no sitema  : Cast to ObjectId failed for value "651213eb4ba9ce2b8d56ec3b8" (type string) at path "_id" for model "Movie"[39m 
+2023-09-25 21:08:07:87 - [35mhttp[39m: [35mGET /api/movie/651213eb4ba9ce2b8d56ec3b - - - - ms[39m
+[35m[39m 
+2023-09-25 21:09:15:915 - [35mhttp[39m: [35mGET /api/movie/651213eb4ba9ce2b8d56ec3b - - - - ms[39m
+[35m[39m 
+2023-09-25 21:09:26:926 - [35mhttp[39m: [35mGET /api/movie/651213eb4ba9ce2b8d56ec3b - - - - ms[39m
+[35m[39m 
+2023-09-25 21:10:10:1010 - [35mhttp[39m: [35mGET /api/movie/651213eb4ba9ce2b8d56ec3b - - - - ms[39m
+[35m[39m 
+2023-09-25 21:10:57:1057 - [35mhttp[39m: [35mGET /api/movie/651213eb4ba9ce2b8d56ec3b8 - - - - ms[39m
+[35m[39m 
+2023-09-25 21:13:48:1348 - [35mhttp[39m: [35mPOST /api/movie 201 482 - 215.806 ms[39m
+[35m[39m 
+2023-09-25 21:15:23:1523 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 21:15:23:1523 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 21:16:16:1616 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 21:16:16:1616 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 21:16:56:1656 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 21:16:56:1656 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 21:18:11:1811 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 21:18:11:1811 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 21:18:59:1859 - [35mhttp[39m: [35mGET /apimovie/6512223c7ac3d0867e462529 404 172 - 2.166 ms[39m
+[35m[39m 
+2023-09-25 21:19:48:1948 - [31merror[39m: [31mErro no sitema  : Cast to ObjectId failed for value "6512223c7ac3d0867e4625298" (type string) at path "_id" for model "Movie"[39m 
+2023-09-25 21:21:01:211 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 21:21:01:211 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 21:21:11:2111 - [31merror[39m: [31mErro no sitema  : Cast to ObjectId failed for value "6512223c7ac3d0867e4625298" (type string) at path "_id" for model "Movie"[39m 
+2023-09-25 21:21:18:2118 - [35mhttp[39m: [35mGET /api/movie/6512223c7ac3d0867e462529 200 482 - 185.155 ms[39m
+[35m[39m 
+2023-09-25 21:21:24:2124 - [31merror[39m: [31mErro no sitema  : Cast to ObjectId failed for value "6512223c7ac3d0867e4625299" (type string) at path "_id" for model "Movie"[39m 
+2023-09-25 21:24:11:2411 - [35mhttp[39m: [35mGET /api/movie/6512223c7ac3d0867e4625298 - - - - ms[39m
+[35m[39m 
+2023-09-25 21:24:24:2424 - [35mhttp[39m: [35mGET /api/movie/6512223c7ac3d0867e4625299 - - - - ms[39m
+[35m[39m 
+2023-09-25 21:29:47:2947 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 21:29:47:2947 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 21:29:52:2952 - [35mhttp[39m: [35mGET /api/movie/6512223c7ac3d0867e4625299 400 33 - 2.670 ms[39m
+[35m[39m 
+2023-09-25 21:33:56:3356 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 21:33:56:3356 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 21:35:39:3539 - [35mhttp[39m: [35mGET /api/movie 404 148 - 3.687 ms[39m
+[35m[39m 
+2023-09-25 21:35:45:3545 - [35mhttp[39m: [35mGET /apimovie 404 147 - 1.373 ms[39m
+[35m[39m 
+2023-09-25 21:35:52:3552 - [35mhttp[39m: [35mGET /api/movie 404 148 - 0.588 ms[39m
+[35m[39m 
+2023-09-25 21:35:59:3559 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 21:35:59:3559 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 21:36:05:365 - [35mhttp[39m: [35mGET /api/movie 200 1269 - 194.690 ms[39m
+[35m[39m 
+2023-09-25 21:44:41:4441 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 21:44:41:4441 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 21:45:00:450 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 21:45:00:450 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 21:47:44:4744 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 21:47:44:4744 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 21:48:35:4835 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 21:48:35:4835 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 21:49:43:4943 - [35mhttp[39m: [35mDELETE /api/movie/650d91db089786820ec58abf 200 37 - 367.911 ms[39m
+[35m[39m 
+2023-09-25 21:49:50:4950 - [35mhttp[39m: [35mDELETE /api/movie/650d91db089786820ec58abf 404 32 - 176.459 ms[39m
+[35m[39m 
+2023-09-25 21:57:36:5736 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 21:57:36:5736 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 21:57:36:5736 - [35mhttp[39m: [35mGET /apimovie 404 147 - 1.979 ms[39m
+[35m[39m 
+2023-09-25 21:57:43:5743 - [35mhttp[39m: [35mGET /api/movie 200 1121 - 188.981 ms[39m
+[35m[39m 
+2023-09-25 21:58:26:5826 - [35mhttp[39m: [35mPATCH /apimovie/650dff332e7eefddf79ec773 404 174 - 0.330 ms[39m
+[35m[39m 
+2023-09-25 21:58:34:5834 - [35mhttp[39m: [35mPATCH /apimovie/650dff332e7eefddf79ec7734 404 175 - 0.157 ms[39m
+[35m[39m 
+2023-09-25 21:58:42:5842 - [35mhttp[39m: [35mPATCH /api/movie/650dff332e7eefddf79ec7734 400 33 - 0.886 ms[39m
+[35m[39m 
+2023-09-25 22:03:35:335 - [32minfo[39m: [32mconectou ao BD[39m 
+2023-09-25 22:03:35:335 - [32minfo[39m: [32mAplicação esta funcionando na porta:  3000[39m 
+2023-09-25 22:06:16:616 - [35mhttp[39m: [35mPATCH /api/movie/6512223c7ac3d0867e462529 200 355 - 378.964 ms[39m
+[35m[39m 
+2023-09-25 22:06:29:629 - [35mhttp[39m: [35mGET /api/movie 200 1123 - 183.407 ms[39m
+[35m[39m 

@@ -1,2 +1,10 @@
 2023-09-21 22:50:13:5013 - [31merror[39m: [31mDeu errado a conexao[39m 
 2023-09-21 22:50:13:5013 - [31merror[39m: [31mErro: MongoServerError: bad auth : Authentication failed.[39m 
+2023-09-25 21:01:36:136 - [31merror[39m: [31mErro no sitema  : Cast to ObjectId failed for value "651213eb4ba9ce2b8d56ec3b8" (type string) at path "_id" for model "Movie"[39m 
+2023-09-25 21:01:50:150 - [31merror[39m: [31mErro no sitema  : Cast to ObjectId failed for value "651213eb4ba9ce2b8d56ec3b8" (type string) at path "_id" for model "Movie"[39m 
+2023-09-25 21:02:16:216 - [31merror[39m: [31mErro no sitema  : Cast to ObjectId failed for value "651213eb4ba9ce2b8d56ec3b8" (type string) at path "_id" for model "Movie"[39m 
+2023-09-25 21:04:46:446 - [31merror[39m: [31mErro no sitema  : Cast to ObjectId failed for value "651213eb4ba9ce2b8d56ec3b8" (type string) at path "_id" for model "Movie"[39m 
+2023-09-25 21:07:57:757 - [31merror[39m: [31mErro no sitema  : Cast to ObjectId failed for value "651213eb4ba9ce2b8d56ec3b8" (type string) at path "_id" for model "Movie"[39m 
+2023-09-25 21:19:48:1948 - [31merror[39m: [31mErro no sitema  : Cast to ObjectId failed for value "6512223c7ac3d0867e4625298" (type string) at path "_id" for model "Movie"[39m 
+2023-09-25 21:21:11:2111 - [31merror[39m: [31mErro no sitema  : Cast to ObjectId failed for value "6512223c7ac3d0867e4625298" (type string) at path "_id" for model "Movie"[39m 
+2023-09-25 21:21:24:2124 - [31merror[39m: [31mErro no sitema  : Cast to ObjectId failed for value "6512223c7ac3d0867e4625299" (type string) at path "_id" for model "Movie"[39m 

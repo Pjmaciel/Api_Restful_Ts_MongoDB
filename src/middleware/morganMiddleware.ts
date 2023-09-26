@@ -17,7 +17,7 @@ const skip = () => {
 
 //Ele define quais informações serão registradas para cada solicitação HTTP.
 const morganMiddleware = morgan(
-    ":method :url :status : res[content-length] - :response-time ms",
+    ":method :url :status :res[content-length] - :response-time ms",
     {stream, skip}
 )
 
